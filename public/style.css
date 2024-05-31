@@ -1,0 +1,61 @@
+body {
+    background-image: url("images/somethingRTSMAP2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+body {
+    color: white;
+    
+
+}
+label{
+    color: white;
+}
+#b1{
+    justify-content: center;
+    align-items: center;
+    display: block;
+    display: flex;
+    min-height: 100vh;
+}
+.outline{
+    width: 325px;
+    background: orange;
+    color: white;
+    
+
+}
+.outline2{
+    width: 325px;
+    background: orange;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    
+
+}
+#header1{
+    background-color: green;
+    align-items: center;
+    text-align: center;
+    
+}
+#Search{
+    font-size:25px;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+    display: block;
+    display: flex;
+    padding: 5x 10px;
+    cursor: pointer;
+}
